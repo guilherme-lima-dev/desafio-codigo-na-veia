@@ -31,13 +31,7 @@
      - Tipo de problema
      - Data da ocorrência
 
-3. **Dashboard**:
-   - Exiba um resumo no dashboard com:
-     - Total de ocorrências registradas
-     - Número de ocorrências por tipo de problema
-     - Gráfico simples com ocorrências por rodovia
-
-4. **Autenticação**:
+3. **Autenticação**:
    - Os usuários devem se autenticar para acessar o sistema. Utilize a autenticação nativa do Laravel.
 
 ---
@@ -46,6 +40,11 @@
 - **Mapas**: Integrar um mapa (por exemplo, Google Maps ou Leaflet) para mostrar a localização das ocorrências com marcadores.
 - **Uploads de Imagens**: Permitir que os usuários façam upload de fotos das ocorrências para adicionar aos relatórios.
 - **Notificações por E-mail**: Enviar um e-mail para um usuário cadastrado quando uma nova ocorrência for adicionada.
+- **Dashboard**:
+   - Exiba um resumo no dashboard com:
+     - Total de ocorrências registradas
+     - Número de ocorrências por tipo de problema
+     - Gráfico simples com ocorrências por rodovia
 
 ---
 
