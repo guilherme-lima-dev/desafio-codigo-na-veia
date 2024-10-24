@@ -94,9 +94,6 @@
 - **Uso de PHPStan**:
   - Configure e execute a ferramenta PHPStan para análise estática do código, garantindo alta qualidade e prevenção de erros.
   
-- **Uso de Migrations e Seeders**:
-  - Criar migrations e seeders para estruturar o banco de dados e popular com dados de exemplo.
-
 - **Documentação**:
   - Adicionar uma documentação clara no arquivo `README.md` com instruções detalhadas de como configurar e executar o projeto localmente utilizando Docker.
 
