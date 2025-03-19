@@ -7,8 +7,8 @@
 ---
 
 #### **Requisitos Técnicos**:
-- **Framework**: Laravel
-- **Banco de Dados**: MySQL (ou SQLite para simplificação)
+- **Framework**: Qualquer
+- **Banco de Dados**: Postgres, MySQL (ou SQLite para simplificação)
 
 ---
 
